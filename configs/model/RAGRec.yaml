@@ -1,0 +1,6 @@
+embedding_size:
+feat_embed_dim:
+cf_model: lightgcn
+
+
+hyper_parameters: ["n_ui_layers", "n_mm_layers", "n_hyper_layer", "hyper_num", "keep_rate",  "alpha", "cl_weight", "reg_weight"]
